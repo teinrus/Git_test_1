@@ -49,5 +49,7 @@
 </ol>
 
 
-<li> Для скачивания проекта перейди по [ссыллке](https://github.com/teinrus/Git_test_1.git)</li>
-=======
+
+Для скачивания проекта перейди по [ссыллке](https://github.com/teinrus/Git_test_1.git)
+
+
