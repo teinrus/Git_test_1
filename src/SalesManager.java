@@ -25,12 +25,12 @@ public class SalesManager {
         }
         return min;
     }
-    public long srednee() {
-        int srednee=0;
+    public long average() {
+        int average=0;
         for (long sale : sales) {
-            srednee+=sale;
+            average+=sale;
         }
-        return srednee-max()-min();
+        return average-max()-min();
     }
 
 
