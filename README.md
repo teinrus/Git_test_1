@@ -1,4 +1,3 @@
-
 # Работа класса SalesManager
 =======
 
@@ -6,21 +5,17 @@
 <ol>
     <li> Необходимо создать переменную типа <strong>SalesManager</strong> </li>
 
-
             SalesManager unit_1= new SalesManager();
 
   <li>В параметр мы передаем массив типа <strong>int</strong> </li>
-
 
             (new int[]{})
 
   <li>И заполняем массив значениями </li>
 
-
             {150,120,180}
 
   <li>В итоге получаем </li>
-
 
             SalesManager unit_1= new SalesManager(new int[]{150,120,180});
 
@@ -38,8 +33,9 @@
         }
         return max;
     }
+
 <li>Для того чтобы его использовать нам необходимо вызвать данный метод </li>
-            
+
     unit_1.max()
 
 <li>И сразу выведим его на печать </li>
